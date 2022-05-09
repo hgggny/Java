@@ -1,0 +1,16 @@
+package com.kh.practice2.model.vo;
+
+public class Dog extends Animal{
+	public String PLACE = "애견카페";
+	private int weight;
+	
+	public Dog() {
+	}
+
+	public Dog(String name, String kinds, int weight) {
+		super(name, kinds);
+		this.weight = weight;
+	}
+	
+	
+}

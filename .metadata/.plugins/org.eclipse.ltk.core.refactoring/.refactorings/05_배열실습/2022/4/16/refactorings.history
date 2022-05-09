@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;count&apos; in &apos;com.kh.array.practice.ArrayPractice.practice8()&apos; to &apos;size&apos;&#x0D;&#x0A;- Original project: &apos;05_배열실습&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.array.practice.ArrayPractice.practice8().count&apos;&#x0D;&#x0A;- Renamed element: &apos;count&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;count&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.kh.array.practice{ArrayPractice.java[ArrayPractice~practice8@count!3631!3644!3635!3639!I!0!false" name="size" references="true" stamp="1649638845632" version="1.0"/>
+</session>

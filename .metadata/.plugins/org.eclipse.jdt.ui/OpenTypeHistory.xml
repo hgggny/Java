@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=09_다형성/src&lt;com.kh.chapter2._abstract{Sports.java[Sports" modifiers="1025" timestamp="1649949177824"/>
+    <typeInfo handle="=11_예외처리/src&lt;com.kh.exception.practice{C_SuperClass.java[C_SuperClass" modifiers="1025" timestamp="1650343755798"/>
+    <typeInfo handle="=13_컬렉션/C:\/Program Files\/Eclipse Adoptium\/jdk-11.0.14.101-hotspot\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.util(Comparator.class[Comparator" modifiers="1537" timestamp="1644310832000"/>
+    <typeInfo handle="=15_스레드/C:\/Program Files\/Eclipse Adoptium\/jdk-11.0.14.101-hotspot\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.util.concurrent(Executors$RunnableAdapter.class[RunnableAdapter" modifiers="26" timestamp="1644310832000"/>
+    <typeInfo handle="=15_스레드/C:\/Program Files\/Eclipse Adoptium\/jdk-11.0.14.101-hotspot\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.lang(Runnable.class[Runnable" modifiers="1537" timestamp="1644310832000"/>
+    <typeInfo handle="=15_스레드/C:\/Program Files\/Eclipse Adoptium\/jdk-11.0.14.101-hotspot\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.lang(Thread.class[Thread" modifiers="33" timestamp="1644310832000"/>
+</typeInfoHistroy>

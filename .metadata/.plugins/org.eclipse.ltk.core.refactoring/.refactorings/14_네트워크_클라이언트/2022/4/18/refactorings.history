@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;socket&apos; from expression &apos;new Socket(serverIP,port)&apos;&#x0D;&#x0A;- Original project: &apos;14.네트워크_클라이언트&apos;&#x0D;&#x0A;- Variable name: &apos;socket&apos;&#x0D;&#x0A;- Destination method: &apos;com.kh.network.tcp.Client.start()&apos;&#x0D;&#x0A;- Variable expression: &apos;new Socket(serverIP,port)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;socket&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;com.kh.network.tcp{Client.java" name="socket" replace="true" selection="647 0" stamp="1650850101743" varType="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;08_상속실습1_박현진&apos;&#x0D;&#x0A;- Original project: &apos;08_상속실습1_박현진&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.kh.inherit.practice.Employee.java&#x0D;&#x0A;     com.kh.inherit.practice.Person.java&#x0D;&#x0A;     com.kh.inherit.practice.Student.java&#x0D;&#x0A;     com.kh.inherit.Application.java" description="Delete elements" element1="/src&lt;com.kh.inherit.practice{Employee.java" element2="/src&lt;com.kh.inherit.practice{Person.java" element3="/src&lt;com.kh.inherit{Application.java" element4="/src&lt;com.kh.inherit.practice{Student.java" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1651567655811" subPackages="false" version="1.0"/>
+</session>

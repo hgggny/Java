@@ -1,0 +1,7 @@
+1650520232789	Copy compilation unit
+1650520280632	Rename package 'com.kh.chapter1.list.VO'
+1650591279494	Extract local variable 'snack'
+1650593304654	Extract local variable 'set'
+1650593828753	Extract local variable 'iterator'
+1650595317445	Extract local variable 'entrySet'
+1650604330194	Extract local variable 'list'
