@@ -12,7 +12,6 @@ package com.kh.exception.practice;
  *     		// 예외가 발생하지 않거나 예외가 발생해 catch 블록을 실행한 후 무조건 실행되는 코드 블록이다.
  *     		// finally 블록은 생략이 가능하다. 
  *     }]
- *     
  */
 public class A_TryCatch {
 	public void method1() {
