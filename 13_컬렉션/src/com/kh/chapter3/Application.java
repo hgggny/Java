@@ -9,7 +9,7 @@ public class Application {
 //		new A_HashMap().method1();
 //		new A_HashMap().method2();
 		
-//		new B_Properties().method1();
+		new B_Properties().method1();
 		new B_Properties().method2();
 
 	}
