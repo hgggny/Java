@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.HashSet"/>
-    <fullyQualifiedTypeName name="com.kh.chapter2.set.A_HashSet"/>
-    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.io.Closeable"/>
-    <fullyQualifiedTypeName name="com.kh.chapter2.set.B_TreeSet"/>
-    <fullyQualifiedTypeName name="java.util.TreeSet"/>
-    <fullyQualifiedTypeName name="com.kh.chapter2.set.vo.Music"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="com.kh.chapter1.list.vo.Music"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
@@ -39,12 +31,10 @@
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="java.io.PrintWriter"/>
     <fullyQualifiedTypeName name="com.kh.chapter1.thread.Thread1"/>
-    <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="com.kh.chapter1.thread.Thread2"/>
     <fullyQualifiedTypeName name="com.kh.chapter2.sync.Buffer"/>
     <fullyQualifiedTypeName name="com.kh.chapter2.sync.Consumer"/>
     <fullyQualifiedTypeName name="com.kh.chapter2.sync.Producer"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="com.kh.inherit.practice.Person"/>
     <fullyQualifiedTypeName name="java.net.Socket"/>
     <fullyQualifiedTypeName name="com.kh.network.receiver.Receiver"/>
@@ -60,4 +50,14 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="com.kh.control.practice.C_For"/>
     <fullyQualifiedTypeName name="com.hgggny.control.practice.For_A"/>
+    <fullyQualifiedTypeName name="com.kh.lambda.basic.A_Lambda"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="com.kh.lambda.basic.B_Functional"/>
+    <fullyQualifiedTypeName name="com.kh.lambda.basic.functional.A_FunctionalInterface"/>
+    <fullyQualifiedTypeName name="com.kh.lambda.basic.functional.B_FunctionalInterface"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="com.kh.lambda.basic.functional.C_FunctionalInterface"/>
+    <fullyQualifiedTypeName name="com.kh.lambda.standard.A_Consumer"/>
+    <fullyQualifiedTypeName name="java.util.function.Consumer"/>
 </qualifiedTypeNameHistroy>
