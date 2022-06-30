@@ -1,6 +1,10 @@
 package com.kh.lambda;
 
-import com.kh.lambda.standard.A_Consumer;
+import com.kh.lambda.basic.C_MethodReference;
+import com.kh.lambda.standard.B_Supplier;
+import com.kh.lambda.standard.C_Function;
+import com.kh.lambda.standard.D_Operator;
+import com.kh.lambda.standard.E_Predicate;
 
 public class Application {
 
@@ -54,8 +58,20 @@ public class Application {
 		 *  - 표준 함수적 인터페이스는 용도에 따라 Consumer, Supplier, Function, Operator, Predicate 로 구분된다.
 		 */
 		
-		new A_Consumer().method1();
+//		new A_Consumer().method1();
+//		new B_Supplier().method1();
+//		new C_Function().method1();
+//		new D_Operator().method1();
+//		new E_Predicate().method1();
 		
+		
+		/*
+		 * 메소드 참조(Method Reference)
+		 *   - 메소드 참조를 참조해서 매개 변수의 정보 및 리턴 타입을 알아내어, 람다식에서 불필요한 매개 변수를 제거하는 것이 목적이다. 
+		 *   - 참조하는 메소드, 생성자가 존재하지 않으면 오류가 발생한다.
+		 */
+		
+		new C_MethodReference().method1();
 	}
 
 }
