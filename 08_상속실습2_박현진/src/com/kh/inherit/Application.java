@@ -4,7 +4,7 @@ import com.kh.inherit.practice.Circle;
 import com.kh.inherit.practice.Rectangle;
 
 public class Application {
-
+   
 	public static void main(String[] args) {
 		Circle[] c = new Circle[2];
 		Rectangle[] r = new Rectangle[2];
