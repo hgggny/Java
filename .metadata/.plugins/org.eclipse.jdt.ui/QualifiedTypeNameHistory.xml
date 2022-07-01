@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.kh.chapter1.thread.Thread1"/>
-    <fullyQualifiedTypeName name="com.kh.chapter1.thread.Thread2"/>
-    <fullyQualifiedTypeName name="com.kh.chapter2.sync.Buffer"/>
-    <fullyQualifiedTypeName name="com.kh.chapter2.sync.Consumer"/>
-    <fullyQualifiedTypeName name="com.kh.chapter2.sync.Producer"/>
-    <fullyQualifiedTypeName name="com.kh.inherit.practice.Person"/>
-    <fullyQualifiedTypeName name="java.net.Socket"/>
-    <fullyQualifiedTypeName name="com.kh.network.receiver.Receiver"/>
-    <fullyQualifiedTypeName name="com.kh.inherit.practice.Student"/>
-    <fullyQualifiedTypeName name="com.kh.inherit.practice.Employee"/>
-    <fullyQualifiedTypeName name="org.graalvm.compiler.lir.alloc.lsra.ssa.SSALinearScan"/>
-    <fullyQualifiedTypeName name="org.graalvm.compiler.nodes.PiArrayNode"/>
-    <fullyQualifiedTypeName name="com.kh.inherit.practice.Circle"/>
-    <fullyQualifiedTypeName name="com.kh.inherit.practice.Rectangle"/>
-    <fullyQualifiedTypeName name="com.kh.practice2.model.vo.Animal"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="com.kh.control.practice.C_For"/>
     <fullyQualifiedTypeName name="com.hgggny.control.practice.For_A"/>
@@ -36,12 +20,7 @@
     <fullyQualifiedTypeName name="java.util.function.BooleanSupplier"/>
     <fullyQualifiedTypeName name="java.util.function.LongSupplier"/>
     <fullyQualifiedTypeName name="com.kh.lambda.standard.C_Function"/>
-    <fullyQualifiedTypeName name="lombok.Getter"/>
-    <fullyQualifiedTypeName name="lombok.Data"/>
-    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
-    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
     <fullyQualifiedTypeName name="org.graalvm.compiler.hotspot.stubs.Stub"/>
-    <fullyQualifiedTypeName name="lombok.EqualsAndHashCode"/>
     <fullyQualifiedTypeName name="java.util.function.Function"/>
     <fullyQualifiedTypeName name="java.util.function.DoubleFunction"/>
     <fullyQualifiedTypeName name="java.util.function.ToIntBiFunction"/>
@@ -50,7 +29,6 @@
     <fullyQualifiedTypeName name="com.kh.lambda.standard.D_Operator"/>
     <fullyQualifiedTypeName name="java.util.function.IntUnaryOperator"/>
     <fullyQualifiedTypeName name="java.util.function.BinaryOperator"/>
-    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
     <fullyQualifiedTypeName name="java.util.function.IntPredicate"/>
     <fullyQualifiedTypeName name="java.util.function.BiPredicate"/>
     <fullyQualifiedTypeName name="com.kh.lambda.standard.E_Predicate"/>
@@ -60,4 +38,26 @@
     <fullyQualifiedTypeName name="java.util.function.Supplier"/>
     <fullyQualifiedTypeName name="com.kh.lambda.standard.model.vo.Student"/>
     <fullyQualifiedTypeName name="java.util.function.BiFunction"/>
+    <fullyQualifiedTypeName name="com.kh.stream.Application"/>
+    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.kh.stream.basic.A_Create"/>
+    <fullyQualifiedTypeName name="com.kh.stream.intermediate.A_Filtering"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="lombok.ToString"/>
+    <fullyQualifiedTypeName name="lombok.EqualsAndHashCode"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="com.kh.stream.model.vo.Student"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="com.kh.stream.intermediate.B_Sorted"/>
 </qualifiedTypeNameHistroy>
