@@ -1,8 +1,10 @@
 package com.kh.stream;
 
-import com.kh.stream.basic.A_Create;
-import com.kh.stream.intermediate.A_Filtering;
-import com.kh.stream.intermediate.B_Sorted;
+import com.kh.stream.intermediate.C_Mapping;
+import com.kh.stream.intermediate.D_Looping;
+import com.kh.stream.terminal.A_Match;
+import com.kh.stream.terminal.B_Aggregate;
+import com.kh.stream.terminal.C_Collect;
 
 public class Application {
 
@@ -26,7 +28,20 @@ public class Application {
 //		new A_Filtering().method1();
 //		new A_Filtering().method2();
 		
-		new B_Sorted().method1();
-		new B_Sorted().method2();
+//		new B_Sorted().method1();
+//		new B_Sorted().method2();
+		
+//		new C_Mapping().method1();
+//		new C_Mapping().method2();
+//		new C_Mapping().method3();
+		
+//		new D_Looping().method1();
+		
+//		new A_Match().method1();
+//		new A_Match().method2();
+		
+		new B_Aggregate().method1();
+		
+//		new C_Collect().method1();
 	}
 }
