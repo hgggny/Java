@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.kh.control.practice.C_For"/>
+    <fullyQualifiedTypeName name="com.hgggny.control.practice.For_A"/>
+    <fullyQualifiedTypeName name="com.kh.lambda.basic.A_Lambda"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="com.kh.lambda.basic.B_Functional"/>
     <fullyQualifiedTypeName name="com.kh.lambda.basic.functional.A_FunctionalInterface"/>
     <fullyQualifiedTypeName name="com.kh.lambda.basic.functional.B_FunctionalInterface"/>
     <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
@@ -7,12 +14,14 @@
     <fullyQualifiedTypeName name="com.kh.lambda.standard.A_Consumer"/>
     <fullyQualifiedTypeName name="java.util.function.BiConsumer"/>
     <fullyQualifiedTypeName name="java.util.function.DoubleConsumer"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.util.function.ObjIntConsumer"/>
     <fullyQualifiedTypeName name="com.kh.lambda.standard.B_Supplier"/>
     <fullyQualifiedTypeName name="java.util.function.BooleanSupplier"/>
     <fullyQualifiedTypeName name="java.util.function.LongSupplier"/>
     <fullyQualifiedTypeName name="com.kh.lambda.standard.C_Function"/>
     <fullyQualifiedTypeName name="org.graalvm.compiler.hotspot.stubs.Stub"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
     <fullyQualifiedTypeName name="java.util.function.DoubleFunction"/>
     <fullyQualifiedTypeName name="java.util.function.ToIntBiFunction"/>
     <fullyQualifiedTypeName name="java.util.function.ToIntFunction"/>
@@ -30,6 +39,7 @@
     <fullyQualifiedTypeName name="com.kh.lambda.standard.model.vo.Student"/>
     <fullyQualifiedTypeName name="java.util.function.BiFunction"/>
     <fullyQualifiedTypeName name="com.kh.stream.Application"/>
+    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
     <fullyQualifiedTypeName name="java.util.stream.Stream"/>
     <fullyQualifiedTypeName name="lombok.Data"/>
@@ -38,26 +48,16 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.kh.stream.basic.A_Create"/>
     <fullyQualifiedTypeName name="com.kh.stream.intermediate.A_Filtering"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="lombok.Getter"/>
     <fullyQualifiedTypeName name="lombok.Setter"/>
     <fullyQualifiedTypeName name="lombok.ToString"/>
     <fullyQualifiedTypeName name="lombok.EqualsAndHashCode"/>
     <fullyQualifiedTypeName name="java.util.function.Predicate"/>
     <fullyQualifiedTypeName name="com.kh.stream.model.vo.Student"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="com.kh.stream.intermediate.B_Sorted"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="com.kh.stream.intermediate.C_Mapping"/>
-    <fullyQualifiedTypeName name="java.util.Comparator"/>
-    <fullyQualifiedTypeName name="com.kh.stream.intermediate.D_Looping"/>
-    <fullyQualifiedTypeName name="com.kh.stream.terminal.A_Match"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="com.kh.stream.terminal.B_Aggregate"/>
-    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="com.kh.stream.terminal.C_Collect"/>
-    <fullyQualifiedTypeName name="java.util.HashSet"/>
-    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
-    <fullyQualifiedTypeName name="java.util.function.Function"/>
 </qualifiedTypeNameHistroy>
