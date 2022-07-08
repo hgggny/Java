@@ -18,6 +18,7 @@
 	<item key="org.eclipse.jdt.uiformatter_page.preference_tree_expansion" value="00.0..0.0.000.0.0.0.0.0.0.0.0.0.0..00.0.0.0.0.0.0.0.0.0.0..00.0.0.0.0.0.0..00.0.0.0..00.0.0.0...00.0.0..000.0..0.0..100.0.0.0.0.0.0.0.0.0.0.0...10.0..0.."/>
 	<item key="org.eclipse.jdt.uiformatter_page.preference_scroll_position" value="248"/>
 	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\82105\eclipse\jee-2022-03\eclipse"/>
+	<item key="org.eclipse.jdt.ui.last.external.project" value="C:\Users\82105\develop\semiproject"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="1"/>
