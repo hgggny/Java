@@ -32,7 +32,7 @@ public class Application {
 		//		- ctrl + 1 키를 누르면 해당 에러에 대한 해결 방법을 제시해준다. 
 		ValuePrinter printer = new ValuePrinter();
 		
-
+      
 		// 2) 생성한 클래스로 메소드 실행(호출)
 		// 표현법
 		//   사용할이름.실행할메소드명();
