@@ -1,6 +1,0 @@
-1650240810693	Extract local variable 'index'
-1650242022651	Extract local variable 'str9'
-1650242376974	Extract local variable 'str10'
-1650244345327	Extract local variable 'strArr'
-1650261017208	Extract local variable 'formatDate'
-1650329251281	Extract local variable 'LocalDateTime'

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy 3 elements to &apos;09_다형성/src/com.kh.chapter3._interface&apos;&#x0D;&#x0A;- Original project: &apos;09_다형성&apos;&#x0D;&#x0A;- Destination element: &apos;09_다형성/src/com.kh.chapter3._interface&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.kh.chapter1.polymorphism.Desktop.java&#x0D;&#x0A;     com.kh.chapter1.polymorphism.Product.java&#x0D;&#x0A;     com.kh.chapter1.polymorphism.SmartPhone.java" description="Copy compilation units" destination="/src&lt;com.kh.chapter3._interface" element1="/src&lt;com.kh.chapter1.polymorphism{Desktop.java" element2="/src&lt;com.kh.chapter1.polymorphism{Product.java" element3="/src&lt;com.kh.chapter1.polymorphism{SmartPhone.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1649984676985" units="3" version="1.0"/>
-</session>

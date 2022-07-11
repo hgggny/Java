@@ -1,7 +1,0 @@
-package com.kh.datastructure;
-
-public class Array {
-	public void method1() {
-		
-	}
-}

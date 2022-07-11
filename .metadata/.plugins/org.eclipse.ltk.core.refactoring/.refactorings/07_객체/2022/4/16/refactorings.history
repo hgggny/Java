@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;com.kh.chapter3.field.C_StaticField&apos; to &apos;C_StaticFinalField&apos;&#x0D;&#x0A;- Original project: &apos;07_객체&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.chapter3.field.C_StaticField&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kh.chapter3.field.C_StaticFinalField&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;C_StaticField&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.kh.chapter3.field{C_StaticField.java[C_StaticField" matchStrategy="1" name="C_StaticFinalField" qualified="false" references="true" similarDeclarations="false" stamp="1649810786284" textual="false" version="1.0"/>
-</session>

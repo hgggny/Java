@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;b&apos; in &apos;com.kh.bubblesort.BubbleSort.bubblesort()&apos; to &apos;a&apos;&#x0D;&#x0A;- Original project: &apos;TeamProject&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.bubblesort.BubbleSort.bubblesort().b&apos;&#x0D;&#x0A;- Renamed element: &apos;b&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;b&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.kh.bubblesort{BubbleSort.java[BubbleSort~bubblesort@b!128!133!132!132!I!0!false" name="a" references="true" stamp="1649475183800" version="1.0"/>
-</session>

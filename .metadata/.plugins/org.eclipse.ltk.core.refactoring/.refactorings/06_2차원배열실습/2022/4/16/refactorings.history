@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;array&apos; in &apos;com.kh.dimention.practice.DimentionPractice.practice1()&apos; to &apos;arr&apos;&#x0D;&#x0A;- Original project: &apos;06_2차원배열실습&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.dimention.practice.DimentionPractice.practice1().array&apos;&#x0D;&#x0A;- Renamed element: &apos;array&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;array&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.kh.dimention.practice{DimentionPractice.java[DimentionPractice~practice1@array!104!193!112!116!\[\[I!0!false" name="arr" references="true" stamp="1649743075496" version="1.0"/>
-</session>
